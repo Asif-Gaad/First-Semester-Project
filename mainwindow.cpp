@@ -212,3 +212,4 @@ void MainWindow::onDeleteClicked() {
 
     QMessageBox::information(this, "Deleted", "Student record deleted successfully from CSV!");
 }
+//works as instructione given
